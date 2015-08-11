@@ -27,7 +27,7 @@
 development:
   adapter: postgresql
   encoding: unicode
-  database: uandme_development
+  database: uandme_dev
   pool: 5
   username: postgres
   password: admin
