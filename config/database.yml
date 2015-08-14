@@ -29,7 +29,7 @@ development:
   encoding: unicode
   database: uandme_dev
   pool: 5
-  username: postgres
+  username: admin
   password: admin
 
 test:
@@ -37,7 +37,7 @@ test:
   encoding: unicode
   database: uandme_test
   pool: 5
-  username: postgres
+  username: admin
   password: admin
 
 # production:
